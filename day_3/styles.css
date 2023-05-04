@@ -1,0 +1,67 @@
+
+    
+.Container {
+  display: flex;
+  justify-content: center;
+}
+
+.MobileView {
+ 
+  background: #1d0202;
+  padding: 30px;
+}
+.HeadingInfo {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  margin: 50px 0;
+}
+.HeadingInfo h6 {
+  color: #d0a398;
+  font-family: Montserrat;
+  margin: 15px !important;
+  text-align: center;
+  font-size: 16px;
+  line-height: 15px;
+}
+.Deal {
+  font-weight: bold;
+  font-size: x-large !important;
+}
+.FeedBackForm {
+  background: #f6e5e1;
+  border-radius: 0.5rem;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.FeedBackForm p {
+  color: #1d0202;
+  font-size: medium;
+  font-weight: bold;
+  font-family: Montserrat;
+  margin: 15px !important;
+  text-align: center;
+  line-height: 15px;
+}
+
+.ImoteResponse {
+  display: flex;
+  justify-content: center;
+  gap: 15px;
+}
+.Emogi {
+  font-size: 42px;
+  cursor: pointer;
+}
+.SubmitFeedBack {
+  padding: 10px 40px;
+  border: none;
+  background: #0c0101;
+  color: white;
+  border-radius: 15px;
+  font-size: larger;
+  cursor: pointer;
+}
+  
